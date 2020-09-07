@@ -1,13 +1,10 @@
 # Vue-TypeScript-Scaffolding
 
-骨架程式是用來快速建立新專案時的基礎程式。
 
 流程:  
 
 1. 首先，先 git clone 此骨架程式
-```
-  git clone http://61.216.107.78:3000/UILayer/Vue-TypeScript-Scaffolding.git    
-```
+
 <br>
 
 2. 到 package.json 修改專案名稱和確認版本號 (0.0.1 是初始版)
@@ -46,7 +43,7 @@
 <br>
 1. 首先，先 git clone 此骨架程式
 ```
-  git clone http://61.216.107.78:3000/UILayer/Vue-TypeScript-Scaffolding.git    
+  git clone xxx.git    
 ```
 
 2. 再把此骨架程式所在的資料夾下把隱藏資料夾 .git 給刪除
